@@ -7,8 +7,9 @@ I am a student at **Thomas More Geel** where I will hopefully graduate in **2022
 **Twitch**: https://www.twitch.tv/drieaugu <br/>
 **Twitter**: https://twitter.com/AugustynsDries <br/>
 
-
-
+### 📊 Stats
+[![Drieaugu's github stats](https://github-readme-stats.vercel.app/api?username=Drieaugu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drieaugu&count_private=true&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Drieaugu/drieaugu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
