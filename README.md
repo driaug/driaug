@@ -6,6 +6,7 @@ I am a student at **Thomas More Geel** where I will hopefully graduate in **2022
 ### 🔗 My socials
 **Twitch**: https://www.twitch.tv/drieaugu <br/>
 **Twitter**: https://twitter.com/AugustynsDries <br/>
+**LinkedIn**: https://www.linkedin.com/in/dries-augustyns-6151b7173/
 
 ### 📊 Stats
 [![Drieaugu's github stats](https://github-readme-stats.vercel.app/api?username=Drieaugu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
