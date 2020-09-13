@@ -4,8 +4,7 @@
 I am a student at **Thomas More Geel** where I will hopefully graduate in **2022**. I am studying for a **bachelor's degree in Applied Computer Science** with a specialization in  **Artificial Intelligence**. In my free time I practice a lot with technologies such as: TypeScript, React, MongoDB, PowerBI and Qlik.
 
 ### 🔗 My socials
-**Webstie**: https://www.driaug.com <br/>
-**Twitch**: https://www.twitch.tv/drieaugu <br/>
+**Website**: https://www.driaug.com <br/>
 **Twitter**: https://twitter.com/AugustynsDries <br/>
 **LinkedIn**: https://www.linkedin.com/in/dries-augustyns-6151b7173/
 
