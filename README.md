@@ -10,5 +10,4 @@ I am a student at **Thomas More Geel** where I will hopefully graduate in **2022
 **LinkedIn**: https://www.linkedin.com/in/dries-augustyns-6151b7173/
 
 ### 📊 Stats
-[![Driaug's github stats](https://github-readme-stats.vercel.app/api?username=driaug)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driaug&count_private=true&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![driaug's github stats](https://github-readme-stats.vercel.app/api?username=driaug&count_private=true)
