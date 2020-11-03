@@ -6,4 +6,4 @@
 **LinkedIn**: https://www.linkedin.com/in/dries-augustyns-6151b7173/
 
 ### 📊 Stats
-![driaug's github stats](https://github-readme-stats.vercel.app/api?username=driaug&count_private=true)
+![driaug's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=driaug)
