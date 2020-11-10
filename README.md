@@ -3,7 +3,7 @@
 ### 🔗 My socials
 **Website**: https://driaug.com <br/>
 **Twitter**: https://twitter.com/AugustynsDries <br/>
-**LinkedIn**: https://www.linkedin.com/in/dries-augustyns-6151b7173/
+**LinkedIn**: https://www.linkedin.com/in/driaug/
 
 ### 📊 Stats
 ![driaug's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=driaug)
