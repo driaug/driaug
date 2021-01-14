@@ -6,4 +6,4 @@
 **LinkedIn**: https://www.linkedin.com/in/driaug/
 
 ### 📊 Stats
-![driaug's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=driaug)
+![driaug's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=driaug&layout=compact)
