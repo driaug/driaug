@@ -5,5 +5,5 @@
 **Twitter**: https://twitter.com/AugustynsDries <br/>
 **LinkedIn**: https://www.linkedin.com/in/driaug/
 
-### 📊 Stats
-![driaug's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=driaug&layout=compact)
+### 📊 Weekly Stats
+![driaug's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=driaug&layout=compact&hide_title=true&hide_border=true)
