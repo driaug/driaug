@@ -1,3 +1,11 @@
-<p align="center">
-<img width="80%" src="https://user-images.githubusercontent.com/7780269/57891608-3e096d00-7851-11e9-8e6c-6f58534ba3f5.png"/>
-</p>
+```ts
+const driaug = new Driaug({
+  skills: ["TypeScript", "React", "MongoDB", "PostgreSQL"],
+  socials: {
+    twitter: "https://twitter.com/driaug_", // please give me @driaug twitter :(
+    website: "https://driaug.com",
+    linkedIn: "https://linkedin.com/in/driaug"
+  },
+
+});
+```
