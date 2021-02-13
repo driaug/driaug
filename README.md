@@ -6,6 +6,5 @@ const driaug = new Driaug({
     website: "https://driaug.com",
     linkedIn: "https://linkedin.com/in/driaug"
   },
-
 });
 ```
