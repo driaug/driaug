@@ -1,6 +1,6 @@
 ![GitHub Followers](https://img.shields.io/github/followers/driaug?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/driaug?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Follow on Twitter](https://img.shields.io/twitter/follow/driaug_?style=social)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/driaug_?style=social)](https://twitter.com/driaug_)
 
 ```ts
 const driaug = new Driaug({
