@@ -1,3 +1,7 @@
+![GitHub Followers](https://img.shields.io/github/followers/driaug?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/driaug?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Follow on Twitter](https://img.shields.io/twitter/follow/driaug_?style=social)
+
 ```ts
 const driaug = new Driaug({
   skills: ["TypeScript", "React", "Python", "SQL", "NoSQL", "DevOps","ML"],
